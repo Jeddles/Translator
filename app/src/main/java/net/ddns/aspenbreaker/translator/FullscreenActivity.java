@@ -14,6 +14,7 @@ public class FullscreenActivity extends AppCompatActivity
         setContentView(R.layout.activity_fullscreen);
 
         Log.i("tag", "hello, World!");
+        Log.i("tag", "hello, World!");
     }
 
 }
